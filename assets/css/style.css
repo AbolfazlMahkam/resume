@@ -173,3 +173,9 @@ dokme {
 .discord:hover {
   background-color: var(--discord);
 }
+
+.linkImg {
+  width: 40px;
+  height: 40px;
+  margin: 0 30px;
+}
